@@ -1,6 +1,6 @@
 # Lab 25B - Report
 
-**Ho ten / nhom:** Vu Van Ha - 202602589  **Commit:** 7fbe3e0  **Diem tu dong (`make grade`):** 84.0 / 88
+**Ho ten / nhom:** Vu Van Ha - 202602589  **Commit:** a4facfd  **Diem tu dong (`make grade`):** 84.0 / 88
 
 ## 1. Ket Qua Game Day
 
